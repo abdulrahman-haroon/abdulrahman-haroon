@@ -7,6 +7,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goal: Learn more about development.
 - ⚡ Fun fact: I love to play basketball and play Esport Games.
+- 📫 How to reach me: abdulrahman.haroonr@gmail.com
 
 ### Connect with me:
 
