@@ -1,6 +1,6 @@
 ### Hi there, I'm Abdul Rahman 👋
 
-## I'm a Software Engineer Student, Developer, and programming enthusiast!
+## I'm a Software Engineer Student, Developer, and Programming Enthusiast!
 
 - 🔭 I’m currently working on a building apps!
 - 🌱 I’m currently learning JavaScript
