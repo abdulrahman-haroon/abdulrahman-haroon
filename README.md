@@ -34,6 +34,8 @@
 
 <img align="left" alt="Abdul Rahman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdulrahman-haroon&show_icons=true&hide_border=true" />
 
+[linkedin]: https://www.linkedin.com/in/abdul-rahman-haroon/
+
 <!--
 **abdulrahman-haroon/abdulrahman-haroon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
