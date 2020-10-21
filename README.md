@@ -3,7 +3,6 @@
 ## I'm a Software Engineer Student, Developer, and Programming Enthusiast!
 
 - 🔭 I’m currently working on a building apps!
-- 🌱 I’m currently learning React Native.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 Goal: Learn more about development.
 - 📫 How to reach me: abdulrahman.haroonr@gmail.com
