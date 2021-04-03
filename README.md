@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 Goal: Learn more about development.
 - 📫 How to reach me: abdulrahman.haroonr@gmail.com
-- 🌐 https://optimusbt.azurewebsites.net/
+- 🌐 The website I am working on is https://optimusbt.azurewebsites.net/
 ### Connect with me:
 
 [<img align="left" alt="abdul-rahman-haroon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
