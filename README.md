@@ -2,11 +2,12 @@
 
 ## I'm a Software Engineer Student, Developer, and Programming Enthusiast!
 
-- 🔭 I’m currently working on a building bug tracking tool named as Optimus Bug Tracker!
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 Goal: Learn more about development.
-- 📫 How to reach me: abdulrahman.haroonr@gmail.com
+- 🔭 I’m currently working on building a bug tracking tool named as Optimus Bug Tracker!
 - 🌐 The website I am working on is https://optimusbt.azurewebsites.net/
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 Goal: Learn more about development in regards to web or andriod.
+- 📫 How to reach me: abdulrahman.haroonr@gmail.com
+
 ### Connect with me:
 
 [<img align="left" alt="abdul-rahman-haroon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
