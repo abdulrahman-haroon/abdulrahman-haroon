@@ -3,7 +3,7 @@
 ## I'm a Software Engineer Student, Developer, and Programming Enthusiast!
 
 - 🔭 I’m currently working on building a bug tracking tool named as Optimus Bug Tracker!
-- 🌐 The website I am working on is https://optimusbt.azurewebsites.net/
+- 🌐 The website I am working on is www.optimusbt.org
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 Goal: Learn more about development in regards to web or andriod.
 - 📫 How to reach me: abdulrahman.haroonr@gmail.com
