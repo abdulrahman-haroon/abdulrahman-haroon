@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on building a bug tracking tool named as Optimus Bug Tracker!
 - 🌐 The website I am working on is https://www.optimusbt.org
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 Goal: Learn more about development in regards to web or andriod.
+- 🥅 Goal: Learn more about development in regards to web or app.
 - 📫 How to reach me: abdulrahman.haroonr@gmail.com
 
 ### Connect with me:
