@@ -1,9 +1,7 @@
 ### Hi there, I'm Abdul Rahman 👋
 
-## I'm a Software Engineer Student, Developer, and Programming Enthusiast!
+## I'm a Software Engineer, Developer, and Programming Enthusiast!
 
-- 🔭 I’m currently working on building a bug tracking tool named as Optimus Bug Tracker!
-- 🌐 The website I am working on is https://www.optimusbt.org
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 Goal: Learn more about development in regards to web or app.
 - 📫 How to reach me: abdulrahman.haroonr@gmail.com
@@ -33,4 +31,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌐 The website I am working on is https://www.optimusbt.org
 -->
