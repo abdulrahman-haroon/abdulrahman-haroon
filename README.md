@@ -2,8 +2,8 @@
 
 ## I'm a Software Engineer, Developer, and Programming Enthusiast!
 
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 Goal: Learn more about development in regards to web or app.
+<!-- - 👯 I’m looking to collaborate with other content creators.
+ - 🥅 Goal: Learn more about development in regards to web or app. -->
 - 📫 How to reach me: abdulrahman.haroonr@gmail.com
 
 ### Connect with me:
