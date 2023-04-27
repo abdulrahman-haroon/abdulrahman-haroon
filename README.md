@@ -2,9 +2,14 @@
 
 ## I'm a Software Engineer, Developer, and Programming Enthusiast!
 
-<!-- - 👯 I’m looking to collaborate with other content creators.
- - 🥅 Goal: Learn more about development in regards to web or app. -->
+<!-- - 👯 I’m looking to collaborate with other content creators. -->
+- 🥅 My goal is to learn more about development.
+- 🔭 I’m currently working on multiple projects thats related to SDWAN and Services applications.
+- ⚡ I like to work on multiple projects irrespective to tech stack to expand my horizons.
+- 💬 Feel free to ask help.
 - 📫 How to reach me: abdulrahman.haroonr@gmail.com
+- 🌐 Portfolio: www.abdulrahmanharoon.com
+
 
 ### Connect with me:
 
