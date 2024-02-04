@@ -8,7 +8,7 @@
 - ⚡ I like to work on multiple projects irrespective to tech stack to expand my horizons.
 - 💬 Feel free to ask help.
 - 📫 How to reach me: abdulrahman.haroonr@gmail.com
-- 🌐 Portfolio: abdulrahmanharoon.com
+- 🌐 Portfolio: https://abdulrahmanharoon.com
 
 
 ### Connect with me:
