@@ -98,8 +98,8 @@ fun_fact: Built a bug tracker using NLP that reduced bug duplication by 98%
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=abdulrahman-haroon&theme=tokyonight&hide_border=true" />
-    <img src="https://streak-stats.demolab.com/?user=abdulrahman-haroon&theme=default&hide_border=true" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulrahman-haroon&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulrahman-haroon&theme=default" alt="Contribution Graph" />
   </picture>
 </div>
 
