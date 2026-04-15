@@ -7,6 +7,7 @@
 <p>
   <a href="https://linkedin.com/in/abdul-rahman-haroon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:abdulrahman.haroonr@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <img src="https://komarev.com/ghpvc/?username=abdulrahman-haroon&style=for-the-badge&color=6C63FF" alt="Profile Views" />
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=4%2B+Years+Building+Scalable+Applications;Contributed+to+%241.1M+Revenue+Platform;Full-Stack+%7C+Cloud+%7C+Microservices;Passionate+About+Secure+Software+Development" alt="Typing SVG" />
@@ -105,12 +106,14 @@ fun_fact: Built a bug tracker using NLP that reduced bug duplication by 98%
 
 ---
 
-## � Notable Work
+## 🏆 GitHub Trophies
 
-- Built and launched **Umraat.com** — a travel platform integrated with Maqam GDS, PayFort, and AWS
-- Developed **Optimus Bug Tracker** using NLP (Universal Sentence Encoder) for smart duplicate detection
-- Engineered a **real-time auction system** with 50+ concurrent bids using .NET Core and Flutter
-- Won **1st place** at the IEEE Computer Society programming competition
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=abdulrahman-haroon&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" />
+    <img src="https://github-profile-trophy.vercel.app/?username=abdulrahman-haroon&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </picture>
+</div>
 
 ---
 
@@ -119,10 +122,4 @@ fun_fact: Built a bug tracker using NLP that reduced bug duplication by 98%
 - 🔵 **Microsoft Azure Fundamentals (AZ-900)** — In Progress
 - 🟢 **Hack The Box** — Bruno Machine Completion Certificate (Penetration Testing Lab)
 
----
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=abdulrahman-haroon&style=for-the-badge&color=6C63FF" alt="Profile Views" />
-
-</div>
