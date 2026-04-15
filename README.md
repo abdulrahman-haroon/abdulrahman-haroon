@@ -106,12 +106,12 @@ fun_fact: Built a bug tracker using NLP that reduced bug duplication by 98%
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Activity Graph
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=abdulrahman-haroon&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" />
-    <img src="https://github-profile-trophy.vercel.app/?username=abdulrahman-haroon&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=abdulrahman-haroon&theme=tokyo-night&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrahman-haroon&theme=minimal&hide_border=true" alt="Activity Graph" />
   </picture>
 </div>
 
